@@ -1,4 +1,4 @@
-import "./dismissHeader.css"
+import "./dismissHeader.css";
 import { useState } from "react";
 import { AiFillThunderbolt,AiFillCloseCircle } from "react-icons/ai";
 import { Button } from "react-bootstrap";
